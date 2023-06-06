@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9853465056234404a868873684b27c85, type: 3}
+  m_Name: Wave0
+  m_EditorClassIdentifier: 
+  pathPrefab: {fileID: 3863669448973018131, guid: 2bf0ef09302b64748bd525ffb53c50cf, type: 3}
+  moveSpeed: 10
+  enemyPrefabs:
+  - {fileID: 696185640114256920, guid: 3f777de423ff31c4e880fbb44381d4b7, type: 3}
+  - {fileID: 696185640114256920, guid: 3f777de423ff31c4e880fbb44381d4b7, type: 3}
+  - {fileID: 696185640114256920, guid: 3f777de423ff31c4e880fbb44381d4b7, type: 3}
+  timeBetweenUfoSpawns: 5
+  spawnVariance: 2
