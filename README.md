@@ -1,7 +1,4 @@
-# CSC348 - Video Games Programming
-### Coursework 2 / 3 - Asteroids Game
-
-### Author: Tim Deville (2003506)
+### Author: Tim Deville 
 
 ## Assets used:
 
