@@ -1,5 +1,12 @@
 ### Author: Tim Deville 
 
+Asteroids 2D game - created as part of a university game programming module. This public version does not include and licensed assets, only C# scripts. Assets used can be seen below.
+
+## Links
+Video Demo: https://youtu.be/pcBx1xaaUaA
+
+WebGL Build: https://tpd91.itch.io/asteroids
+
 ## Assets used:
 
 Sprites:
