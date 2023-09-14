@@ -1,9 +1,9 @@
 ### Author: Tim Deville 
 
-Asteroids 2D game - created as part of a university game programming module. This public version does not include and licensed assets, only C# scripts. Assets used can be seen below.
+A modern take on the classic Atari game 'Asteroids'. The objective of the game is to destroy asteroids whilst surviving enemy UFO fire. Created as part of a university game programming module. This public version does not include and licensed assets, only C# scripts. Assets used can be seen below.
 
 ## Links
-Video Demo: https://youtu.be/pcBx1xaaUaA
+Video Demo: [https://youtu.be/pcBx1xaaUaA](https://youtu.be/4MnWlLtCMtc?si=OBIawOQE70l7gkX0)
 
 WebGL Build: https://tpd91.itch.io/asteroids
 
@@ -19,6 +19,15 @@ SFX:
 Music:
 - Menu music by brandon75689 (opengameart.org/): Free (CC0)
 - Through Space by maxstack (https://opengameart.org/users/maxstack): Free (CC-BY-SA 3.0)
+
+## Features
+- Player profiles
+- Unlockable Achievements
+- Unlockable Ships, each with different characteristics
+- Multiple levels
+- Music & Sound effects
+- Gameplay rewind
+- Controller support
 
 ## Known Issues
 
